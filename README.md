@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Phạm Tiến Nhật
+* ID: 22BI13346
+* Group ID: 17
+* Project Name: Recipe Sharing Website	
